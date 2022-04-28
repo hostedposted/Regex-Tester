@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "eslint": "^7.27.0",
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.2"
   }
 }
